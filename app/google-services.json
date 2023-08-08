@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96807008336",
+    "firebase_url": "https://cafe-bbab9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cafe-bbab9",
+    "storage_bucket": "cafe-bbab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96807008336:android:8b4a527176f63e9a99f955",
+        "android_client_info": {
+          "package_name": "com.uzziqam.cafedecariot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96807008336-696pv79mo5cdjdleo34nchifu5crvq8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uzziqam.cafedecariot",
+            "certificate_hash": "e6a38ffbb2e9dcf5b25e5dc628a437e27591718a"
+          }
+        },
+        {
+          "client_id": "96807008336-27sqbhsc4km5ojsho6ku1efjd4ectnbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21imDZX3VzzEH1qIV-SN3sigmaWIr1Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96807008336-27sqbhsc4km5ojsho6ku1efjd4ectnbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
